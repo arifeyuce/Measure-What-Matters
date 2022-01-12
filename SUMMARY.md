@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Quotes](README.md)
+* [About](README.md)
+* [Quotes](<README (1).md>)
 * [Chapter1](chapter1.md)
 * [Chapter 4: Focus and commit to Priorities](chapter-4-focus-and-commit-to-priorities.md)
 * [Chapter 7: Align and Connect for Teamwork](chapter-7-align-and-connect-for-teamwork.md)
